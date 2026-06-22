@@ -8,7 +8,7 @@
 
 ## UAC Bypass (Optional)
 ```cmd
-.\uacbypass.exe 67 "FULL_PATH_TO_BAT_FILE"
+.\akagi64.exe 67 "FULL_PATH_TO_BAT_FILE"
 ```
 
 ## Compilation
