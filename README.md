@@ -1,4 +1,4 @@
-# CASxploit: Windows SYSTEM Reverse Shell via PsExec
+# CASxploit: Windows SYSTEM Reverse Shell
 
 ## Usage
 1. Run `run_as_admin.bat`.
